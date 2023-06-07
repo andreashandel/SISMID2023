@@ -1,0 +1,12 @@
+name: "SISMID 2023"
+output_dir: "docs"
+exclude: ["auxiliary", "*.csv"]
+output:
+  html_document:
+    theme: flatly
+    highlight: default
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+    css: "./media/course_style.css"

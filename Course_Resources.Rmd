@@ -1,0 +1,48 @@
+---
+title: Course Resources
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+output: 
+  html_document:
+      toc: FALSE
+---
+
+
+```{r, echo = FALSE}
+#just so I can use emoticons
+#devtools::install_github("hadley/emo")
+library(emoji)
+```
+
+
+This page lists resources and materials that we'll be using in the course. At the bottom, we point you to further resources that might be of interest.
+
+Note that some of the listed resources are dynamic and ever changing. That means occasionally links might not work, sites go offline, chapters in online books get re-arranged, etc. If you notice anything that's not quite right, let us know.
+
+
+# Papers
+
+* [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf). An introduction we wrote on the topic. You will see a lot of overlap between that paper and the course materials. You might want to read the paper before the course, then maybe re-read a few more times during and after the course.
+
+* We'll be referencing several primary research papers in the course. Some of them might be behind a pay-wall. We'll provide a zip file that contains most (all?) references. 
+
+
+# Software
+
+* We'll be using [R](https://cran.r-project.org/) and the [Dynamical Systems Approach to Immune Response Modeling (DSAIRM) package](https://ahgroup.github.io/DSAIRM/) for the course. We also recommend installing and using [RStudio](https://www.rstudio.com/products/rstudio/). For more details on how to download and install all needed software, see the links in the __Schedule__ page.
+
+
+# Other online materials
+
+* The majority of materials for the course are on our [Simulation Modeling in Immunology (SMI)](https://andreashandel.github.io/SMIcourse/) website. You'll find materials from this and prior years there.
+
+
+# Further Resources
+
+* There are many further resources available. We list some of them in the [Resources section of the SMI website](https://andreashandel.github.io/SMIcourse/Resources.html).
+
+* For a list of terms that are commonly used in Immunology and Modeling see [this Glossary on the SMI website](https://andreashandel.github.io/SMIcourse/Glossary.html).
+
+

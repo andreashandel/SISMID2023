@@ -1,0 +1,85 @@
+---
+title: SISMID 2023 Course Schedule
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+#bibliography: ../media/SMICourse.bib
+output: 
+  html_document:
+    toc: FALSE
+---
+
+This is the schedule for the course. From here, you can access all instructions and materials to help you prepare. 
+
+**This schedule is subject to change, so check for updates.**
+
+
+## Notes
+
+* Abbreviations used: 
+  - [DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package](https://ahgroup.github.io/DSAIRM/). 
+  - [SMI = Simulation Modeling in Immunology - website](https://andreashandel.github.io/SMIcourse/index.html). 
+
+
+* SISMID was online in 2020-2022 and we recorded our lectures. These recorded lectures and a lot of other materials are available on our [SMI website](https://andreashandel.github.io/SMIcourse/). This website is continuously online and will receive future updates as we produce more content.
+
+* This course website will likely remain online, but will not be further updated after the course.
+
+* The DSAIRM package and other mentioned R packages will continue to be available and might receive occasional updates.
+
+
+
+
+
+## Before course start
+
+* Familiarize yourself with this website. Read through all of it.
+* Browse through our paper [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf).
+* Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. 
+  - [Here are instructions for setting up R and RStudio.](https://andreashandel.github.io/SMIcourse/R_and_RStudio.html)
+  - [This explains how to install and use the DSAIRM package.](https://andreashandel.github.io/SMIcourse/Introduction_to_DSAIRM.html)
+  - [This is the DSAIRM website with more details.](https://ahgroup.github.io/DSAIRM/)
+  - __Make sure you install the latest version of DSAIRM, which is 0.9.5. You'll see which version you have on the main menu screen.__
+* If you can, take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Basic Virus Model__. Play around with them and go through (some of) the tasks to get familiar with DSAIRM.
+
+
+
+## Course schedule
+
+**Monday 7/17**
+
+Unit 1, 8.30AM - 10AM: Introduction to Immunology (Paul)
+
+Unit 2, 10.30AM - noon: Introduction to R and Modeling (Andreas)
+
+Unit 3, 1:30PM – 3PM: Immunology of viral infections – (Paul) 	
+
+Unit 4, 3.30PM – 5PM: Modeling of viral infections – (Andreas)	
+
+
+**Tuesday 7/18**
+
+Unit 5, 8.30AM - 10AM: Immunology of bacterial infections (Paul)
+
+Unit 6 10.30AM - noon: Modeling of bacterial infections (Andreas)
+
+Unit 7, 1:30PM – 3PM: Immunology of vaccines and other treatments (Paul)
+
+Unit 8, 3.30PM – 5PM: Modeling of vaccines and other treatments (Andreas)
+
+
+**Wednesday 7/19**
+
+Unit 9, 8.30AM - 10AM: A worked modeling example (Andreas)
+ 
+Unit 10, 10.30AM - noon: Topics as requested (Paul/Andreas) 
+
+
+
+
+## Any time during and after the course
+
+Go through any additional content on the [SMI website](https://andreashandel.github.io/SMIcourse/) that you are interested in. Explore the [DSAIRM models](https://ahgroup.github.io/DSAIRM/). Ask us questions about any of those topics.
+
+

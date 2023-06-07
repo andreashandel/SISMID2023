@@ -1,0 +1,59 @@
+---
+title: "SISMID 2023"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r, include = FALSE}
+#just so I can use emoticons
+#devtools::install_github("hadley/emo")
+library(emoji)
+```
+
+
+
+<!-- Some trickery to get the logo to show -->
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
+   });
+</script>
+
+Last update/recompile: `r Sys.time()`
+
+<!-- **This site will not be further updated. It will remain here for reference. We are only keeping the logistic parts here. The content has been moved (and continues to be updated) at our permanent, stand-alone site/course [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/).** -->
+
+
+Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/courses/MD2310), which is part of the [2023 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/institutes/sismid). 
+
+The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/research/labs/thomas-lab.html). 
+
+
+# Website content
+
+The __Syllabus__ provides a brief overview with a few logistic details.
+
+The __Schedule__ lists the topics, with links to materials. Most of the materials are on a separate site called [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) which we use as the main, permanent repository for teaching materials related to this course (and other workshops). 
+
+The __Communication__ section provides information on how course communications are planned to happen.
+
+The __Resources__ section contains a listing of the main sources and materials we will be using in this course, as well as links to further resources.
+
+The __Project__ section has information and instructions for a - completely optional - course project you can do if you want. 
+
+
+# Getting started
+
+Start by briefly skimming through all pages on this website. Then go through and do everything listed in the __Before course start__ section of the __Schedule__ page. 
+
+
+# Notes
+
+We are a _Module_ of SISMID. However, for our purposes, we refer to our module as a _course_ or _class_, and use _module_ for individual segments, which are further divided into _units_. We hope this is not too confusing. 
+
+By default, all links open in the current tab. You'll likely want external ones to open in a separate tab or window. To do so, you can (with most browsers) hold the `Ctrl` button when clicking, or do a right-click and select `open in new tab/window`.
+
+
+  

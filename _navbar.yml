@@ -1,0 +1,20 @@
+name: "SISMID2023"
+title: "SISMID 2023"
+logo:
+    image: media/logo.png
+    href: https://andreashandel.github.io/SISMID2023/
+type: inverse
+left:
+  - text: "Syllabus"
+    href: ./Course_Syllabus.html
+  - text: "Schedule"
+    href: ./Course_Schedule.html
+  - text: "Communication"
+    href: ./Course_Communication.html
+  - text: "Resources"
+    href: ./Course_Resources.html
+  - text: "Project"
+    href: ./Course_Project.html
+right:
+  - icon: fab fa-github
+    href: https://github.com/andreashandel/SISMID2023

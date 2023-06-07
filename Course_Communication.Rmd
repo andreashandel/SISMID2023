@@ -1,0 +1,21 @@
+---
+title: Course Communication
+subtitle: ""
+author: Andreas Handel
+date: "`r file.mtime(knitr::current_input())`"
+#bibliography: ../media/SMICourse.bib
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+```{r, echo = FALSE}
+#just so I can use emoticons
+library(emoji)
+```
+
+
+Since SISMID is in-person this year, all communication will be face-to-face. Of course feel free to reach out to us by email as well.
+

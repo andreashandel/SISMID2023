@@ -1,0 +1,55 @@
+---
+title: Syllabus
+subtitle: ""
+author: Andreas Handel
+institute: "University of Georgia"
+date: "`r file.mtime(knitr::current_input())`"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+## Course Information
+
+* Instructors: Paul Thomas and Andreas Handel
+* Course Meeting Time and Location: 2022-07-17 - 2022-07-19, Seattle, WA
+
+## Textbook and Other Course Material
+
+All course materials are provided. We link to all materials you need and explain how to get them.
+
+
+## Course Description
+
+This course provides an introduction to simulation modeling of pathogens and the immune response on the within-host level. You will learn what simulation models are and how they can be used to study pathogen and immune response dynamics within an infected host. This course is an introductory overview course. Due to time limitations, we we will not be able to go very deep into either the biology/immunology side of things or the modeling/coding side of things. You do not have to build models or write computer code as part of this course. But you are certainly welcome and encouraged to do so, and we will provide information and resources to go deeper into any of the topics we cover.
+
+
+## Grading
+
+This course has no grades. You will get a certificate of completion at the end.
+
+
+## Class Attendance
+
+Attendance is not required, but we hope you will attend all sessions.
+
+We also hope that you will be an active participant and ask questions, join discussions, and contribute in any way you feel willing and able.
+
+
+## Prerequisites
+
+We assume you have some basic biological and computer literacy. Some of you may know some immunology, or have some statistical, modeling or coding experience. We understand every student will come with different skill sets. Since this is an introductory course, we try to make things as understandable as possible for anyone, no matter their previous knowledge. That means that some of the material might be too basic for you, will others will be new to you (and likely challenging). 
+
+We "promise" that you will feel bored and you will feel lost at least once during the course `r emoji::emoji('grin')`. We hope that you will still find the majority of the material we teach interesting and helpful. Please don't hesitate to give us feedback during the course (in real time) if you think we are going too slow or too fast.
+
+
+## Getting Help
+
+If you have questions about any aspect of the course, please do not hesitate to talk to us. 
+
+
+## Course Outline
+
+For an outline of the course, please see the course __Schedule__ document. 
+
