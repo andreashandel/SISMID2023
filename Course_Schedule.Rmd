@@ -40,7 +40,6 @@ This is the schedule for the course. From here, you can access all instructions 
   - [Here are instructions for setting up R and RStudio.](https://andreashandel.github.io/SMIcourse/R_and_RStudio.html)
   - [This explains how to install and use the DSAIRM package.](https://andreashandel.github.io/SMIcourse/Introduction_to_DSAIRM.html)
   - [This is the DSAIRM website with more details.](https://ahgroup.github.io/DSAIRM/)
-  - __Make sure you install the latest version of DSAIRM, which is 0.9.5. You'll see which version you have on the main menu screen.__
 * If you can, take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Basic Virus Model__. Play around with them and go through (some of) the tasks to get familiar with DSAIRM.
 
 
@@ -51,7 +50,7 @@ This is the schedule for the course. From here, you can access all instructions 
 
 Unit 1, 8.30AM - 10AM: Introduction to Immunology (Paul)
 
-Unit 2, 10.30AM - noon: Introduction to R and Modeling (Andreas)
+Unit 2, 10.30AM - noon: Introduction to Modeling (Andreas)
 
 Unit 3, 1:30PM – 3PM: Immunology of viral infections – (Paul) 	
 
