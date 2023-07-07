@@ -17,5 +17,6 @@ library(emoji)
 ```
 
 
-Since SISMID is in-person this year, all communication will be face-to-face. Of course feel free to reach out to us by email as well.
+Since SISMID is in-person this year, communication will be face-to-face. 
+There is a Slack channel, but we don't plan to use it much. We'll try to monitor it though, so you can send us a message there. And of course feel free to reach out to us by email as well.
 

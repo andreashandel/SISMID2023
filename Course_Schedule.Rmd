@@ -71,9 +71,9 @@ Unit 5, 8.30AM - 10AM: Immunology of bacterial infections (Paul)
 
 Unit 6 10.30AM - noon: Modeling of bacterial infections (Andreas) - [Slides](slides/2023_Bacteria_Models_Slides.html)	
 
-Unit 7, 1:30PM – 3PM: Immunology of vaccines and other treatments (Paul)
+Unit 7, 1:30PM – 3PM: Immunology of drug and vaccine treatments (Paul)
 
-Unit 8, 3.30PM – 5PM: Modeling of vaccines and other treatments (Andreas)
+Unit 8, 3.30PM – 5PM: Modeling drug and vaccine treatments (Andreas) - [Slides](slides/2023_Treatment_Slides.html)	
 
 
 ### **Wednesday 7/19**

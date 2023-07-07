@@ -17,7 +17,7 @@ library(emoji)
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
+     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 200px;\"/>')
    });
 </script>
 
