@@ -22,13 +22,13 @@ This is the schedule for the course. From here, you can access all instructions 
   - [SMI = Simulation Modeling in Immunology - website](https://andreashandel.github.io/SMIcourse/index.html). 
 
 
-* SISMID was online in 2020-2022 and we recorded our lectures. These recorded lectures and a lot of other materials are available on our [SMI website](https://andreashandel.github.io/SMIcourse/). This website is continuously online and will receive future updates as we produce more content.
+* SISMID was online in 2020-2022 and we recorded our lectures. These recorded lectures and a lot of other materials are available on our [Simulation Modeling for Immunology (SMI) website](https://andreashandel.github.io/SMIcourse/). This website is continuously online and will receive future updates as we produce more content.
 
 * This course website will likely remain online, but will not be further updated after the course.
 
 * The DSAIRM package and other mentioned R packages will continue to be available and might receive occasional updates.
 
-
+* Some of the slides below are in html. If you prefer pdf, it is easiest to open the html file in your browser, click the menu bar on the bottom left, under "Tools", choose "PDF export mode" and then go to the print menu of the browser and print/save as pdf. The Chrome browser generally works best for this.
 
 
 
@@ -46,29 +46,37 @@ This is the schedule for the course. From here, you can access all instructions 
 
 ## Course schedule
 
-**Monday 7/17**
+
+### **Monday 7/17**
 
 Unit 1, 8.30AM - 10AM: Introduction to Immunology (Paul)
 
-Unit 2, 10.30AM - noon: Introduction to Modeling (Andreas)
-
-Unit 3, 1:30PM – 3PM: Immunology of viral infections – (Paul) 	
-
-Unit 4, 3.30PM – 5PM: Modeling of viral infections – (Andreas)	
+Unit 2, 10.30AM - noon: Introduction to Modeling (Andreas) - [Slides](slides/2023_Introduction_to_Modeling_Slides.html)
 
 
-**Tuesday 7/18**
+Unit 3, 1:30PM – 3PM: Immunology of viral infections (Paul) 	
+
+Unit 4, 3.30PM – 5PM: Modeling of viral infections (Andreas) - [Slides](slides/2023_Virus_Models_Slides.html)	
+
+
+[Homework for tomorrow:]{.underline}
+
+* If you haven't already, take a look at the "Basic Bacteria Model" app and go through - in as much detail as you have time - the "What to do" tasks. You can try yourself first, or [walk through it with the help of the solutions](https://andreashandel.github.io/SMIcourse/code/basicbacteria_solution.html).
+* Take an especially close look at the solution for task 6 and the `R` code for it, we will use a similar approach tomorrow.
+
+
+### **Tuesday 7/18**
 
 Unit 5, 8.30AM - 10AM: Immunology of bacterial infections (Paul)
 
-Unit 6 10.30AM - noon: Modeling of bacterial infections (Andreas)
+Unit 6 10.30AM - noon: Modeling of bacterial infections (Andreas) - [Slides](slides/2023_Bacteria_Models_Slides.html)	
 
 Unit 7, 1:30PM – 3PM: Immunology of vaccines and other treatments (Paul)
 
 Unit 8, 3.30PM – 5PM: Modeling of vaccines and other treatments (Andreas)
 
 
-**Wednesday 7/19**
+### **Wednesday 7/19**
 
 Unit 9, 8.30AM - 10AM: A worked modeling example (Andreas)
  

@@ -35,7 +35,7 @@ The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Pa
 
 The __Syllabus__ provides a brief overview with a few logistic details.
 
-The __Schedule__ lists the topics, with links to materials. Most of the materials are on a separate site called [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) which we use as the main, permanent repository for teaching materials related to this course (and other workshops). 
+The __Schedule__ lists the topics, with links to materials. Some of the materials are on a separate site called [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) which we use as the main, permanent repository for teaching materials related to this course (and other workshops). 
 
 The __Communication__ section provides information on how course communications are planned to happen.
 
