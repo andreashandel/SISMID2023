@@ -49,12 +49,12 @@ This is the schedule for the course. From here, you can access all instructions 
 
 ### **Monday 7/17**
 
-Unit 1, 8.30AM - 10AM: Introduction to Immunology (Paul)
+Unit 1, 8.30AM - 10AM: Introduction to Immunology (Paul) - [Slides](slides/2023_Introduction_to_Immunology.pdf)
 
 Unit 2, 10.30AM - noon: Introduction to Modeling (Andreas) - [Slides](slides/2023_Introduction_to_Modeling_Slides.html)
 
 
-Unit 3, 1:30PM – 3PM: Immunology of viral infections (Paul) 	
+Unit 3, 1:30PM – 3PM: Immunology of viral infections (Paul) - [Slides](slides/2023_Viral_Infections.pdf) 	
 
 Unit 4, 3.30PM – 5PM: Modeling of viral infections (Andreas) - [Slides](slides/2023_Virus_Models_Slides.html)	
 
@@ -67,11 +67,11 @@ Unit 4, 3.30PM – 5PM: Modeling of viral infections (Andreas) - [Slides](slides
 
 ### **Tuesday 7/18**
 
-Unit 5, 8.30AM - 10AM: Immunology of bacterial infections (Paul)
+Unit 5, 8.30AM - 10AM: Immunology of bacterial infections (Paul) - [Slides](slides/2023_Bacterial_Infections.pdf) 	
 
 Unit 6 10.30AM - noon: Modeling of bacterial infections (Andreas) - [Slides](slides/2023_Bacteria_Models_Slides.html)	
 
-Unit 7, 1:30PM – 3PM: Immunology of drug and vaccine treatments (Paul)
+Unit 7, 1:30PM – 3PM: Immunology of drug and vaccine treatments (Paul) - [Slides](slides/2023_Drug_and_Vaccine_Treatment.pdf) 	
 
 Unit 8, 3.30PM – 5PM: Modeling drug and vaccine treatments (Andreas) - [Slides](slides/2023_Treatment_Slides.html)	
 
