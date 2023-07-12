@@ -61,7 +61,7 @@ Unit 4, 3.30PM – 5PM: Modeling of viral infections (Andreas) - [Slides](slides
 
 [Homework for tomorrow:]{.underline}
 
-* If you haven't already, take a look at the "Basic Bacteria Model" app and go through - in as much detail as you have time - the "What to do" tasks. You can try yourself first, or [walk through it with the help of the solutions](https://andreashandel.github.io/SMIcourse/code/basicbacteria_solution.html).
+* If you haven't already, take a look at the "Basic Bacteria Model" app and go through - in as much detail as you have time - the "What to do" tasks. You can try yourself first, or [walk through it with the help of the solution](https://andreashandel.github.io/SMIcourse/code/basicbacteria_solution.html).
 * Take an especially close look at the solution for task 6 and the `R` code for it, we will use a similar approach tomorrow.
 
 
